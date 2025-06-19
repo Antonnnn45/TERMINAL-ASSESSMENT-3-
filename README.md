@@ -38,7 +38,7 @@ A web-based inventory management system developed using **CodeIgniter 4** as the
 
 ## 🌐 Live Site
 
-🔗 http://TERMINAL-ASSESSMENT-3.infinityfreeapp.com/
+🔗 http://TERMINAL-ASSESSMENT-3.infinityfreeapp.com/login
 
 ---
 
