@@ -44,7 +44,7 @@ A web-based inventory management system developed using **CodeIgniter 4** as the
 
 ## 📁 GitHub Repository
 
-🔗 https://github.com/Antonnnn45/TERMINAL-ASSESSMENT-3
+🔗 https://github.com/Antonnnn45/TERMINAL-ASSESSMENT-3-
 
 ---
 
