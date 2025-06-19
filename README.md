@@ -36,6 +36,18 @@ A web-based inventory management system developed using **CodeIgniter 4** as the
 
 ---
 
+## 🌐 Live Site
+
+🔗 http://TERMINAL-ASSESSMENT-3.infinityfreeapp.com/
+
+---
+
+## 📁 GitHub Repository
+
+🔗 https://github.com/Antonnnn45/TERMINAL-ASSESSMENT-3
+
+---
+
 ## 🛠 Local Setup Instructions (XAMPP)
 
 1. 📥 Clone or download the project into `C:\xampp\htdocs\inventory-system`
